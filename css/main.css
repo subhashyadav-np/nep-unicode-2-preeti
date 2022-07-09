@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap');
+
+@font-face {
+    font-family: 'preeti';
+    src: url(../fonts/Preeti\ Normal.otf);
+}
+h1 {
+    font-family: 'Odibee Sans';
+}
+.preeti-25 {
+    font-family: 'preeti';
+    font-size: 25px;
+}
+.logo{
+    height: 32px;
+}
